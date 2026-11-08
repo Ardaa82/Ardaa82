@@ -1,11 +1,10 @@
 <h1 align="center">Merhaba, ben Arda 👋</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=5865F2&center=true&vCenter=true&width=500&lines=JavaScript+Geliştiricisi;React+%26+Node.js+Öğreniyorum;Discord+Botları+Yazıyorum;Sürekli+Üretmeye+Devam+🚀" alt="Typing SVG" />
-</p>
+<h3 align="center">JavaScript Geliştiricisi • React & Node.js • Discord Bot Geliştirme 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ardaa82&color=5865F2&style=flat-square&label=Profil+Görüntülenme" alt="profil görüntülenme" />
+  <img src="https://img.shields.io/github/followers/Ardaa82?style=flat-square&logo=github&color=5865F2&label=Takipçi" alt="takipçi" />
 </p>
 
 ---
@@ -44,11 +43,12 @@
 
 ---
 
-### 📊 GitHub İstatistiklerim
+### 📊 GitHub Aktivitem
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Ardaa82&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ardaa82&layout=compact&theme=radical&hide_border=true" />
+<p>
+  <img src="https://img.shields.io/github/stars/Ardaa82/ardaa-tr?style=for-the-badge&logo=github&label=ardaa-tr+yıldız&color=5865F2" />
+  <img src="https://img.shields.io/github/stars/Ardaa82/Discord-Moderation-Bot?style=for-the-badge&logo=github&label=Bot+yıldız&color=5865F2" />
+  <img src="https://img.shields.io/github/last-commit/Ardaa82/Discord-Moderation-Bot?style=for-the-badge&logo=git&label=Son+commit&color=339933" />
 </p>
 
 ---
